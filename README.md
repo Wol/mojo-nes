@@ -4,6 +4,8 @@
 
 NES cartridge with no mapper support. Initially created to host homebrew projects from the infamous [THE MOJON-TWINS](http://www.mojontwins.com/), and some more from [1985alternativo](http://www.fasebonus.net/1985alternativo/).
 
+This project has been updated for KiCad v9.
+
 ## License
 mojo-nes is licensed under the [CERN OHL 1.2](http://www.ohwr.org/licenses/cern-ohl/v1.2) license. You are free to study, distribute and make modifications to the Documentation, under the aforementioned license terms. You are also free to make cartridges derived from the Documentation for non-commercial purposes. If you want to make a commercial Product using this Documentation, please contact me to obtain a licence.
 
